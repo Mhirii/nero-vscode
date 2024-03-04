@@ -1,0 +1,21 @@
+{
+  "name": "nero",
+  "displayName": "Nero",
+  "description": "minimalist blue themed color scheme with vibrant colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "nero",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nero-color-theme.json"
+      }
+    ]
+  }
+}
